@@ -17,7 +17,7 @@ Responsive design, adapting to various screen sizes.
 Installation:
 To view the animation locally, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/your-username/Jumping-Square-Animation.git.
+Clone the repository to your local machine using git clone (https://github.com/Rishav-code-bit/Jumping-square.git).
 Open the index.html file in your web browser to see the animation in action.
 Usage:
 To incorporate this animation into your project:
