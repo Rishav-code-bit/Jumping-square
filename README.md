@@ -1,9 +1,9 @@
-Repository Name: Jumping-Square-Animation
+# Jumping-Square-Animation
 
-Description:
+# Description:
 This repository contains HTML and CSS code for creating a jumping square animation, along with images demonstrating the animation.
 
-Introduction:
+# Introduction:
 This project showcases a simple yet engaging jumping square animation implemented using HTML and CSS. The animation consists of a square bouncing up and down within a container, accompanied by two sticks moving slightly.
 
 "Jumping Square Animation" is a dynamic HTML/CSS project showcasing a square bouncing within a container. It features smooth transitions and rotations, enhancing visual appeal. The animation includes two sticks moving slightly, adding depth to the scene. With responsive design, it adapts seamlessly across various screen sizes.
